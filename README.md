@@ -20,7 +20,7 @@ I'm a passionate developer with a strong interest in web development. I love to 
 - [ ] Heroku
 
 ## 📖Education
-> UCLA Extended Full Stack Developer Bootcamp [ *Feb. 2023 - May 2023* ]
+> UCLA Extended Full Stack Developer Bootcamp [ *Feb. 2023 - May 2023* ] - Full Time
 
 ---
 ## 💬 Let's Connect!
