@@ -1,23 +1,25 @@
-# Hello, I am Brandon Reddington 
+# 👋 Hello, I am Brandon Reddington 
 ## About Me
 I'm a passionate developer with a strong interest in web development. I love to build beautiful and functional web applications, and I'm always looking for ways to improve my skills and stay up-to-date with the latest technologies.
 > **[View my portfolio](https://b-reddington.github.io/breddington-portfolio/)**
 ---
-## Current Skills
+## ✔️ Current Skills & Tools
 - [x] JavaScript
 - [x] Jquery, JSON, AJAX
 - [x] HTML
 - [x] CSS
 - [x] BootStrap, Bulma, & Tailwind CSS
+- [x] Figma 
 
-### Currently Learning
+### 📑 Currently Learning
 - [ ] NodeJS
 - [ ] Express
 - [ ] MySQL
 - [ ] React
 - [ ] NoSQL
+- [ ] Heroku
 
-## Education
+## 📖Education
 > UCLA Extended Full Stack Developer Bootcamp [ *Feb. 2023 - May 2023* ]
 
 ---
