@@ -23,12 +23,13 @@ I'm a passionate developer with a strong interest in web development. I love to 
 > UCLA Extended Full Stack Developer Bootcamp [ *Feb. 2023 - May 2023* ]
 
 ---
-## Github Stats
-  <img src="https://github-readme-stats.vercel.app/api?username=b-reddington&hide=stars&show_icons=true&theme=tokyonight&line_height=28">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b-reddington&count_private=true&theme=tokyonight">
-  
----
 ## 💬 Let's Connect!
 > [LinkedIn](https://www.linkedin.com/in/breddington/)
 
 > [Twitter](https://twitter.com/TheGrumpyCode)
+
+---
+## Github Stats
+  <img src="https://github-readme-stats.vercel.app/api?username=b-reddington&hide=stars&show_icons=true&theme=tokyonight&line_height=28">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b-reddington&count_private=true&theme=tokyonight">
+  
