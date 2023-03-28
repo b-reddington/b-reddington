@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hello, I am Brandon Reddington 
+## About Me
+I'm a passionate developer with a strong interest in web development. I love to build beautiful and functional web applications, and I'm always looking for ways to improve my skills and stay up-to-date with the latest technologies.
+> **[View my portfolio](https://b-reddington.github.io/breddington-portfolio/)**
+---
+## Current Skills
+- [x] JavaScript
+- [x] Jquery, JSON, AJAX
+- [x] HTML
+- [x] CSS
+- [x] BootStrap, Bulma, & Tailwind CSS
 
-<!--
-**b-reddington/b-reddington** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Currently Learning
+- [ ] NodeJS
+- [ ] Express
+- [ ] MySQL
+- [ ] React
+- [ ] NoSQL
 
-Here are some ideas to get you started:
+## Education
+> UCLA Extended Full Stack Developer Bootcamp [ *Feb. 2023 - May 2023* ]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+## Github Stats
+  <img src="https://github-readme-stats.vercel.app/api?username=b-reddington&hide=stars&show_icons=true&theme=tokyonight&line_height=28">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b-reddington&count_private=true&theme=tokyonight">
