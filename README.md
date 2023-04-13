@@ -4,6 +4,10 @@ I'm a passionate developer with a strong interest in web development. I love to 
 > **[View my portfolio](https://b-reddington.github.io/breddington-portfolio/)**
 ---
 ## ✔️ Current Skills & Tools
+- [x] Express
+- [x] MySQL
+- [x] Heroku
+- [x] NodeJS
 - [x] JavaScript
 - [x] Jquery, JSON, AJAX
 - [x] HTML
@@ -12,12 +16,10 @@ I'm a passionate developer with a strong interest in web development. I love to 
 - [x] Figma 
 
 ### 📑 Currently Learning
-- [ ] NodeJS
-- [ ] Express
-- [ ] MySQL
+
+
 - [ ] React
 - [ ] NoSQL
-- [ ] Heroku
 
 ## 📖Education
 > UCLA Extended Full Stack Developer Bootcamp [ *Feb. 2023 - May 2023* ] - Full Time
